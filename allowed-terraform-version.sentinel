@@ -1,4 +1,4 @@
-mport "tfplan"
+import "tfplan"
 import "version"
 
 # This regular expression checks whether the Terraform version used for the plan is 0.14+, 0.15+, or 1.0+
